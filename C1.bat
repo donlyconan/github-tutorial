@@ -1,0 +1,2 @@
+tree
+timeout 10
